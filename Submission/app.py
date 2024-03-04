@@ -55,7 +55,7 @@ with st.sidebar:
     st.write(
         """ 
         **Hilmi Naufal Ramadhani**\n
-        Dicoding ID: **Hilmi Naufal Ramadhani**\n
+        Dicoding ID: **hilminaufalr**\n
         Email: **m258d4ky2149@bangkit.academy**
         """
     )
